@@ -12,8 +12,8 @@ The project utilizes LSTM networks for processing sequential frames representing
 Load the notebook to Kaggle Cloud environment and run there. Since the dataset is substantial, with a size of 180GB, and is hosted on Kaggle, it is preferable to run there to take advantage of the provided GPU as a hardware accelerator.
 
 ## Resources
-ASL Fingerspelling Recognition w/ TensorFlow by Gusthema on Kaggle.
-Long Short-Term Memory Networks With Python: Develop Sequence Prediction Models With Deep Learning by Jason Brownlee.
+- ASL Fingerspelling Recognition w/ TensorFlow by Gusthema on Kaggle.
+- Long Short-Term Memory Networks With Python: Develop Sequence Prediction Models With Deep Learning by Jason Brownlee.
 
 ## Team members
 1. Minh-Hang Radetsky
